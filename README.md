@@ -1,6 +1,16 @@
 # iA Fonts
 
-This is a fork of the official [iA-Fonts](https://github.com/iaolo/iA-Fonts) repo. It has been organized to expose fonts `iA Writer Mono`, `iA Writer Duo`, `iA Writer Quattro` as webfonts (variable fonts are not yet linked).
+This is a fork of the official [iA-Fonts](https://github.com/iaolo/iA-Fonts) repo. It has been organized to expose fonts the iA Writer Mono, Duo, Quattro fonts as webfonts (variable fonts are not yet linked).
+
+If you want to be use these fonts in your own project, you should be able to import them (once downloaded) like so:
+
+```
+<link rel="stylesheet" href="iA Writer Mono/Webfonts/index.css">
+<link rel="stylesheet" href="iA Writer Duo/Webfonts/index.css">
+<link rel="stylesheet" href="iA Writer Quattro/Webfonts/index.css">
+```
+
+Please refer to [index.html](https://github.com/codex-src/iA-Fonts/blob/master/index.html) for example usage.
 
 ## Licensing
 
