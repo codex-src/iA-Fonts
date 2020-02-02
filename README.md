@@ -24,7 +24,7 @@ If you want to be use these fonts in your own project, you should be able to imp
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codex-src/iA-Fonts@master/iA%20Writer%20Quattro/Webfonts/index.css">
 ```
 
-Please refer to [`index.html`](https://github.com/codex-src/iA-Fonts/blob/master/index.html) and [`index-jsdelivr.html`](https://github.com/codex-src/iA-Fonts/blob/master/index-jsdelivr.html) for example usage. And finally, you can refer to [this CodePen](https://codepen.io/zaydek/pen/MWYNjGb) to the jsDelivr version in action.
+Please refer to [`index.html`](https://github.com/codex-src/iA-Fonts/blob/master/index.html) and [`index-jsdelivr.html`](https://github.com/codex-src/iA-Fonts/blob/master/index-jsdelivr.html) for example usage. And finally, you can refer to [this CodePen](https://codepen.io/zaydek/pen/MWYNjGb) to see the jsDelivr version in action.
 
 ## Licensing
 
