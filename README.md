@@ -8,6 +8,6 @@ These are fonts from iA. Please read the licensing files before using them in an
 
 Licenses:
 
-- iA Writer Mono [https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Mono/LICENSE.md]
-- iA Writer Duo [https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duo/LICENSE.md]
-- iA Writer Quattro [https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Quattro/LICENSE.md]
+- [iA Writer Mono](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Mono/LICENSE.md)
+- [iA Writer Duo](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duo/LICENSE.md)
+- [iA Writer Quattro](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Quattro/LICENSE.md)
