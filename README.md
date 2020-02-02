@@ -1,6 +1,6 @@
 # iA Fonts
 
-_I did not make these fonts! This is a form of the [official repo](https://github.com/iaolo/iA-Fonts) to make it easier to expose the iA Writer fonts as webfonts. Variable fonts are not yet linked._
+_**I did not make these fonts!** These were designed and developed by [Oliver Reichenstein @iaolo](https://github.com/iaolo), and I forked them from the [official repo](https://github.com/iaolo/iA-Fonts) (open source) to make it easier to expose them as webfonts. Variable fonts are not yet linked._
 
 For a detailed exploration into the design and development of these fonts, please see this [introductory article](https://ia.net/writer/blog/a-typographic-christmas) from the official iA Writer blog.
 
@@ -14,6 +14,8 @@ If you want to be use these fonts in your own project, you should be able to imp
 
 Please refer to [index.html](https://github.com/codex-src/iA-Fonts/blob/master/index.html) for example usage.
 
+<br>
+
 ## Licensing
 
 These are fonts from iA. Please read the licensing files before using them in any way.
@@ -23,6 +25,8 @@ Licenses:
 - [iA Writer Mono](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Mono/LICENSE.md)
 - [iA Writer Duo](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duo/LICENSE.md)
 - [iA Writer Quattro](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Quattro/LICENSE.md)
+
+<br>
 
 ## Images
 
