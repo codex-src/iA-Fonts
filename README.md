@@ -14,8 +14,6 @@ If you want to be use these fonts in your own project, you should be able to imp
 
 Please refer to [index.html](https://github.com/codex-src/iA-Fonts/blob/master/index.html) for example usage.
 
-<br>
-
 ## Licensing
 
 These are fonts from iA. Please read the licensing files before using them in any way.
@@ -25,12 +23,3 @@ Licenses:
 - [iA Writer Mono](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Mono/LICENSE.md)
 - [iA Writer Duo](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duo/LICENSE.md)
 - [iA Writer Quattro](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Quattro/LICENSE.md)
-
-<br>
-
-## Images
-
-These images are from the official [iA Writer blog](https://ia.net/writer/blog/a-typographic-christmas).
-
-![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Differences-1.png)
-![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Comparison.png)
