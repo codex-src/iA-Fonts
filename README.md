@@ -1,11 +1,8 @@
 # iA Fonts
 
-This is a fork of the official [iA-Fonts](https://github.com/iaolo/iA-Fonts) repo. It has been organized to expose fonts the iA Writer Mono, Duo, Quattro fonts as webfonts (variable fonts are not yet linked).
+_I did not make these fonts! This is a form of the [official repo](https://github.com/iaolo/iA-Fonts) to make it easier to expose the iA Writer fonts as webfonts. Variable fonts are not yet linked._
 
-For a detailed exploration into the design and development of these fonts, please see this [article]((https://ia.net/writer/blog/a-typographic-christmas)) from the official iA Writer blog.
-
-![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Differences-1.png)
-![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Comparison.png)
+For a detailed exploration into the design and development of these fonts, please see this [introductory article](https://ia.net/writer/blog/a-typographic-christmas) from the official iA Writer blog.
 
 If you want to be use these fonts in your own project, you should be able to import them (once downloaded) like so:
 
@@ -26,3 +23,10 @@ Licenses:
 - [iA Writer Mono](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Mono/LICENSE.md)
 - [iA Writer Duo](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duo/LICENSE.md)
 - [iA Writer Quattro](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Quattro/LICENSE.md)
+
+## Images
+
+These images are from the official [iA Writer blog](https://ia.net/writer/blog/a-typographic-christmas).
+
+![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Differences-1.png)
+![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Comparison.png)
