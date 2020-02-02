@@ -16,7 +16,15 @@ If you want to be use these fonts in your own project, you should be able to imp
 <link rel="stylesheet" href="iA Writer Quattro/Webfonts/index.css">
 ```
 
-Please refer to [`index.html`](https://github.com/codex-src/iA-Fonts/blob/master/index.html) for example usage.
+**If you don’t want to download this repo**, you should be able to import them like so:
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codex-src/iA-Fonts@master/iA%20Writer%20Mono/Webfonts/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codex-src/iA-Fonts@master/iA%20Writer%20Duo/Webfonts/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codex-src/iA-Fonts@master/iA%20Writer%20Quattro/Webfonts/index.css">
+```
+
+Please refer to [`index.html`](https://github.com/codex-src/iA-Fonts/blob/master/index.html) and [`index.html`](https://github.com/codex-src/iA-Fonts/blob/master/index-jsdelivr.html) for example usage.
 
 ## Licensing
 
