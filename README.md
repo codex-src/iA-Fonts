@@ -2,7 +2,7 @@
 
 This is a fork of the official [iA-Fonts](https://github.com/iaolo/iA-Fonts) repo. It has been organized to expose fonts `iA Writer Mono`, `iA Writer Duo`, `iA Writer Quattro` as webfonts (variable fonts are not yet linked).
 
-# Licensing
+## Licensing
 
 These are fonts from iA. Please read the licensing files before using them in any way.
 
