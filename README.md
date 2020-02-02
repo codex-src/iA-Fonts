@@ -2,7 +2,7 @@
 
 **I did not make these fonts!** These were designed by [Oliver Reichenstein @iaolo](https://github.com/iaolo) and the iA team, based on the open source [IBM Plex](https://github.com/IBM/plex) font family. This is a fork of the official [iA-Fonts repo](https://github.com/iaolo/iA-Fonts) to make it easier to expose the iA Writer font family as webfonts. Variable fonts are not yet linked.
 
-For a detailed exploration into the design and development of these fonts, please see this [introductory article](https://ia.net/writer/blog/a-typographic-christmas) from the official iA Writer blog.
+For a detailed exploration into the design and development of these fonts, please see this [introductory article](https://ia.net/writer/blog/a-typographic-christmas) from the iA Writer blog.
 
 > iA Writer started off with one font. The classic Nitti, designed by Bold Monday. Last year we added iA Writer Duo, a two-spaced typeface that gives a bit more room to W’s and M’s, based on IBM Plex. This year, we add a third font with four character sizes, called iA Writer Quattro and unify the designs.
 >
