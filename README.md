@@ -4,7 +4,7 @@ This is a fork of the official [iA-Fonts](https://github.com/iaolo/iA-Fonts) rep
 
 If you want to be use these fonts in your own project, you should be able to import them (once downloaded) like so:
 
-```
+```html
 <link rel="stylesheet" href="iA Writer Mono/Webfonts/index.css">
 <link rel="stylesheet" href="iA Writer Duo/Webfonts/index.css">
 <link rel="stylesheet" href="iA Writer Quattro/Webfonts/index.css">
