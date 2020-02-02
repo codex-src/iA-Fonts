@@ -2,6 +2,11 @@
 
 This is a fork of the official [iA-Fonts](https://github.com/iaolo/iA-Fonts) repo. It has been organized to expose fonts the iA Writer Mono, Duo, Quattro fonts as webfonts (variable fonts are not yet linked).
 
+For a detailed exploration into the design and development of these fonts, please see this [article]((https://ia.net/writer/blog/a-typographic-christmas)) from the official iA Writer blog.
+
+![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Differences-1.png)
+![](https://ia.net/wp-content/uploads/2018/12/iA-Writer-Mono-Duo-Quattro-Comparison.png)
+
 If you want to be use these fonts in your own project, you should be able to import them (once downloaded) like so:
 
 ```html
